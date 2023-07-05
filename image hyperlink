@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+  <img src="images.jpg" alt="" usemap="#map1">
+ <map name="map1" >
+  <area shape="rect" coords="0,0,50,50" href="about.html" alt="">
+  <area shape="rect" coords="50,0,100,50" href="contact.html" alt="">
+ </map>
+
+</body>
+</html>
