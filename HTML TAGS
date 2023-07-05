@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+       
+       <!--  <h1>heading 1</h1>
+       <h2>heading 2</h2>
+       <h3>heading3</h3>
+       <h6>heading6</h6>
+       <p>this is paragraph tag this is used for simple paragraph</p>
+       <p>this is paragraph tag this is used for simple paragraph</p>
+       <p>this is paragraph tag this is used for simple paragraph</p>
+       <br>
+       <hr>
+       <br><br><b>this is bold tag</b>
+       <br><br><i>this is italic tag</i>
+       <br><br><u>this is underline tag</u>
+       <br><br><strong>this is strong tag</strong>
+       <br><br><em>this is emphasis tag</em>
+       <br><br><ins>this is insert tage</ins>
+       <br><br><del>this is delete tag</del>
+       <br><br><strike>this is strike tag</strike>
+       <sub>this is sub script tag</sub>
+       <sup>this is super script tag</sup>
+       <h1>H <sub> 2 </sub>  O</h1>
+       <h1>2 <sup> 2 </sup> =4</h1>
+       <address>this is address tag</address>
+       <blockquote>this is blockquote tag</blockquote>
+       <q>this is q tag</q>
+       <s>this is same as strike tag</s>
+   <noscript>this is no script tag</noscript>
+ -->
+   <h1 align="center">ABC Company</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fugiat blanditiis ratione voluptatem, eligendi accusantium in delectus
+     nesciunt dolore <ins>doloremque. Consectetur expedita tenetur,</ins> quo laboriosam recusandae ut est consequatur
+      placeat dignissimos ratione earum quaerat, odio possimus in, libero magnam ad ab! Quae est mollitia delectus dolore
+       omnis veniam dignissimos suscipit corporis doloribus quo porro sapiente perferendis, ullam atque optio officia similique
+        ducimus deserunt temporibus sequi <del>expedita possimus? Inventore</del> et mollitia neque delectus aliquam facere? Assumenda fuga
+         totam libero corporis perspiciatis <mark>deserunt, dicta incidunt delectus</mark> non, cumque animi quis, sit ducimus eaque
+          tempore? Iusto recusandae animi dicta vero debitis. Quam, non?</p>
+   <hr>
+   <h1>About Us</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fugiat blanditiis ratione voluptatem, eligendi accusantium in delectus nesciunt dolore doloremque. Consectetur expedita tenetur, quo laboriosam recusandae ut est consequatur placeat dignissimos ratione earum quaerat, odio possimus in, libero magnam ad ab! Quae est mollitia delectus dolore omnis veniam dignissimos suscipit corporis doloribus quo porro sapiente perferendis, ullam atque optio officia similique ducimus deserunt temporibus sequi expedita possimus? Inventore et mollitia neque delectus aliquam facere? Assumenda fuga totam libero corporis perspiciatis deserunt, dicta incidunt delectus non, cumque animi quis, sit ducimus eaque tempore? Iusto recusandae animi dicta vero debitis. Quam, non?</p>
+   <hr>
+
+
+
+
+
+</body>
+</html>
