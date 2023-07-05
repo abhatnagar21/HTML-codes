@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+   <header>this is header part</header>
+   <nav>this is navigation bar</nav>
+   <section>
+    this is section 1
+    <div>this is div 1</div>
+    <div>this is div 2</div>
+</section>
+<section>this is section two
+<div>this is div 1</div>
+<div>this is div 2</div>
+</section>
+<menu>
+    this is menu bar
+</menu>
+   <footer>this is footer part</footer>
+
+
+
+</body>
+</html>
